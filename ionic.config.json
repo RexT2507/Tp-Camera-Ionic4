@@ -1,0 +1,7 @@
+{
+  "name": "tp-camera-ionic4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
